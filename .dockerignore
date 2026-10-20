@@ -1,0 +1,16 @@
+# Les dépendances
+node_modules
+
+# Les fichiers de config
+Dockerfile*
+.dockerignore
+.oxlintrc.json
+.gitignore
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+
+# Résultat de compil'
+dist
+build
