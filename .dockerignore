@@ -5,6 +5,7 @@ node_modules
 Dockerfile*
 .dockerignore
 .oxlintrc.json
+.git/
 .gitignore
 .vscode/*
 !.vscode/extensions.json
